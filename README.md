@@ -9,6 +9,14 @@
 - Predict college football outcomes
 - Predict college football outcomes against the spread
 
+## I need data that has
+
+- Team data for each week
+- Offense stats/defense stats (weighted based on past opponents) (maybe FPI?)
+- Previous and upcoming opponent strength
+- Past coach performance metric
+- Player statistics (at least for top performers to input when people are out)
+
 ## My machine learning will use:
 
 - Past outcomes
