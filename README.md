@@ -29,3 +29,4 @@
 ## Designing ML 
 
 - I think it will use Support Vector Machine (SVM) algorithms
+    - Kernal functions
