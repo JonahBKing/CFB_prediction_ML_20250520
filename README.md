@@ -31,3 +31,7 @@
 - I think it will use Support Vector Machine (SVM) algorithms
     - Kernal functions
 - PCA?
+
+## Notes
+- Use R and Python in one notebook
+  - https://stackoverflow.com/questions/39008069/r-and-python-in-one-jupyter-notebook
