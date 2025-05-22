@@ -24,3 +24,8 @@
 - Player impact and weighted positional mismatch
 - Coach strength/weaknesses
 - Other factors???
+
+
+## Designing ML 
+
+- I think it will use Support Vector Machine (SVM) algorith
