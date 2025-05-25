@@ -11,11 +11,8 @@
 
 ## Data
 
-- Using data from CFBP
-[Sample DF](https://docs.google.com/spreadsheets/d/1rS8DA6cI6c3bvgkSLCXAgGebQE_XEjisaoOPMFTlZNo/edit?usp=sharing)
-
-<a href="https://docs.google.com/spreadsheets/d/1rS8DA6cI6c3bvgkSLCXAgGebQE_XEjisaoOPMFTlZNo/edit?usp=sharing" target="_blank">sample new tab</a>
-
+- Using data from [CFBD](https://collegefootballdata.com/)
+- [Sample DF](https://docs.google.com/spreadsheets/d/1rS8DA6cI6c3bvgkSLCXAgGebQE_XEjisaoOPMFTlZNo/edit?usp=sharing)
 
 ## My machine learning will use:
 
