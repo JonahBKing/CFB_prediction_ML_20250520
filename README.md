@@ -9,8 +9,12 @@
 - Predict college football outcomes
 - Predict college football outcomes against the spread
 
-## [Sample DF](https://docs.google.com/spreadsheets/d/1rS8DA6cI6c3bvgkSLCXAgGebQE_XEjisaoOPMFTlZNo/edit?usp=sharing)
+## Data
 
+- Using data from CFBP
+[Sample DF](https://docs.google.com/spreadsheets/d/1rS8DA6cI6c3bvgkSLCXAgGebQE_XEjisaoOPMFTlZNo/edit?usp=sharing)
+
+<a href="https://docs.google.com/spreadsheets/d/1rS8DA6cI6c3bvgkSLCXAgGebQE_XEjisaoOPMFTlZNo/edit?usp=sharing" target="_blank">sample new tab</a>
 
 
 ## My machine learning will use:
