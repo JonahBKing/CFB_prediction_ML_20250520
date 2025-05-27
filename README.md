@@ -12,7 +12,10 @@
 ## Data
 
 - Using data from [CFBD](https://collegefootballdata.com/)
+    - Data downloaded using ```cfbfastR```
+    - All cleaning & recoding to be done in Python using pandas
 - [Sample DF](https://docs.google.com/spreadsheets/d/1rS8DA6cI6c3bvgkSLCXAgGebQE_XEjisaoOPMFTlZNo/edit?usp=sharing)
+    
 
 ## My machine learning will use:
 
